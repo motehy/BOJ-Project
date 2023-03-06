@@ -5,8 +5,6 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 # ❗️❗️백준 코딩테스트 문제 및 소스코드❗️❗️
 
-- 1일 1문제 이상 커밋하기 !!
-
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=motehy)](https://solved.ac/motehy/) &nbsp;&nbsp;&nbsp;
